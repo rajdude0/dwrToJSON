@@ -1,0 +1,18 @@
+{
+  "name": "dwrtojson",
+  "version": "1.0.3",
+  "description": "A library to convert DWR String to JS/JSON objects.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dwr",
+    "dwr-to-json",
+    "dwrtojson",
+    "json",
+    "dwr-serialization"
+  ],
+  "author": "dude0",
+  "license": "MIT"
+}
